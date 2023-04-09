@@ -1,6 +1,7 @@
 # Block-A
 def top():
     SIZE = 3  
+    
 #print the top 5 lines of Block A
     print(" "*(SIZE*4)+"X"*(SIZE*6+1)) #line 1
     print(" "*(SIZE*4)+"X"*(SIZE*6+1)) #line 2
